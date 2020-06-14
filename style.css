@@ -7,7 +7,7 @@ body {
     background-size: cover;
     height: 100%;
     margin: 0px;
-    background-color: rgba(46, 52, 64);
+    background-color: #2E3440;
 }
 
 ::-webkit-scrollbar { 
