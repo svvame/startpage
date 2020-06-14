@@ -30,8 +30,8 @@ h1.hello {
 h1.hello, h1.timing {
 	margin-bottom: 10px;
 	font-size: 3.2rem;
-	color: #9BA8BB
-	font-family: "Segoe", sans-serif;	
+	color: #9BA8BB;
+	font-family: Segoe;
 }
 #search {
     width: 63.5%;
