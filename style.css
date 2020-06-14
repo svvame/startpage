@@ -27,6 +27,11 @@ h1.hello {
 	font-family: Segoe;
 }
 
+h1 {
+	font-family: Segoe;
+	color: #eceff4;
+}	
+
 h1.hello, h1.timing {
 	margin-bottom: 10px;
 	font-size: 3.2rem;
