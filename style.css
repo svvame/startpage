@@ -36,7 +36,7 @@ h1 {
 h1.hello, h1.timing {
 	margin-bottom: 10px;
 	font-size: 3.2rem;
-	color: #9BA8BB;
+	color: #F1F8FF;
 	font-family: Segoe UI;
 }
 #search {
@@ -74,7 +74,7 @@ h1.hello, h1.timing {
     font-family: "Product Sans", sans-serif;
     font-weight: 500;
     font-size: 1.8rem;
-    color: #9BA8BB;
+    color: #F1F8FF;
     text-align: center;
     text-shadow: 0 1px 5px rgba(0,0,0,.1);
     background-color: rgba(59, 66, 82, 1);
@@ -174,10 +174,10 @@ and (max-device-width : 480px){
 }
 .bookmark {
     text-decoration: none;
-    color: #9BA8BB;
+    color: #F1F8FF;
     display:block;
     margin: .5em 0em;
 }
 .bookmark:hover {
-    color: #9BA8BB;
+    color: #F1F8FF;
 }
